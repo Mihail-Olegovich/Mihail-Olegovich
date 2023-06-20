@@ -34,7 +34,8 @@
 
 Мои проекты:
 |Название проекта| Описание проекта| Стек|
-|[OlympicSwimmers](https://github.com/Mihail-Olegovich/OlympicSwimmers)|"120 years of Olympic history: athletes and results"|Python, Pandas, Plotly, Scipy, Scikitlearn, Statsmodels|
-|[GPN Intelligence CUP](https://github.com/Mihail-Olegovich/GPN_CUP/tree/master)|Расчет эффекта от акций в сети магазинов по продажам напитков|Python, Pandas|
-|[StatisticsTerm](https://github.com/Mihail-Olegovich/StatisticsTerm/tree/master)|Автоматизация курсового домашнего задания по дисциплине "Теория вероятности и математическая статистика"|Python, Pandas, Plotly, Scipy, Seaborn|
-|[E-commerce](https://github.com/Mihail-Olegovich/Karpov_courses_lessons_and_projects/tree/master/Intermediate_project)|Анализ данных из e-commerce|Python, Pandas, NumPy, Seaborn|
+|----------------|-----------------|-----|
+|[OlympicSwimmers](https://github.com/Mihail-Olegovich/OlympicSwimmers)|"120 years of Olympic history: athletes and results"|**Python**, **Pandas**, **Plotly**, **Scipy**, **Scikitlearn**, **Statsmodels**|
+|[GPN Intelligence CUP](https://github.com/Mihail-Olegovich/GPN_CUP/tree/master)|Расчет эффекта от акций в сети магазинов по продажам напитков|**Python**, **Pandas**|
+|[StatisticsTerm](https://github.com/Mihail-Olegovich/StatisticsTerm/tree/master)|Автоматизация курсового домашнего задания по дисциплине "Теория вероятности и математическая статистика"|**Python**, **Pandas**, **Plotly**, **Scipy**, **Seaborn**|
+|[E-commerce](https://github.com/Mihail-Olegovich/Karpov_courses_lessons_and_projects/tree/master/Intermediate_project)|Анализ данных из e-commerce|**Python**, **Pandas**, **NumPy**, **Seaborn**|
