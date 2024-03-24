@@ -10,19 +10,19 @@
 
 Мой стек технологий:
 
-Python
-Pandas
-NumPy
-Scikit-learn
-PyTorch
-Scipy
-Plotly
-ClickHouse
-PostgreSQL
-Redash
-Tableau
-Airflow
-Django
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- PyTorch
+- Scipy
+- Plotly
+- ClickHouse
+- PostgreSQL
+- Redash
+- Tableau
+- Airflow
+- Django
 
 Мои навыки:
 - Проведение A/B тестов, применение статистических критериев для проверки гипотез
