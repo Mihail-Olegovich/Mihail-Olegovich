@@ -27,7 +27,6 @@
 Мои пет-проекты:
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-
 |[Spam Prediction](https://github.com/Mihail-Olegovich/Spam-prediction)|"Messages spam prediction"|**Python**, **PyTorch**, **NumPy**, **transformers**, **fasttext**|
 |[OlympicSwimmers](https://github.com/Mihail-Olegovich/OlympicSwimmers)|"120 years of Olympic history: athletes and results"|**Python**, **Pandas**, **Plotly**, **Scipy**, **Scikitlearn**, **Statsmodels**|
 |[GPN Intelligence CUP](https://github.com/Mihail-Olegovich/GPN_CUP/tree/master)|Расчет эффекта от акций в сети магазинов по продажам напитков|**Python**, **Pandas**|
